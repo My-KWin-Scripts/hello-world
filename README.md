@@ -15,7 +15,7 @@ To reload a script, simply use `make reload`. This effectively does the same thi
     - go to Kwin-scripts 
       - Disable \<script> 
       - click Apply
-      - Disable \<script> 
+      - Enable \<script> 
       - click Apply
   
   
