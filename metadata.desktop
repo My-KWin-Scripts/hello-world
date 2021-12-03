@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Hello World!
+Comment=Just a simple hello world KWin script.
+
+X-KDE-PluginInfo-Name=hello-world
+X-KDE-PluginKeyword=hello-world
+X-KDE-ParentComponents=hello-world
+
+X-KDE-PluginInfo-Author=Thomas Hellström
+X-KDE-PluginInfo-Email=rel@xed.se
+X-KDE-PluginInfo-Website=https://github.com/My-KWin-Scripts/hello-world
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=MIT
+
+Encoding=UTF-8
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+Icon=preferences-system-windows
+Type=Service
+
+X-KDE-ServiceTypes=KWin/Script,KCModule
+
+X-KDE-PluginInfo-EnabledByDefault=true
+
